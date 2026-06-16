@@ -9,7 +9,7 @@
         android:maxSdkVersion="28" />
 
     <application
-        android:label="FiscalizeAny"
+        android:label="Fiscalize Any"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
